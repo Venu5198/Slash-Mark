@@ -1,2 +1,2 @@
 # Slash-Mark
-This is a Slash Mark end to end project
+This is a Venu end to end project
